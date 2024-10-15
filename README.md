@@ -28,6 +28,8 @@ GitHub: Sathyanarayanan-ops
 
 🛠️ Tech Stack
 
+[![My Skills](https://skillicons.dev/icons?i=js,py,html,css,aws,bootstrap,django,docker,fastapi,git,github,ai,java,jenkins,mongodb,mysql,nginx,nodejs,postgres,postman,pytorch,react,redis,ts)](https://skillicons.dev)
+
 Python, Java, JavaScript, TypeScript, SQL, NoSQL (MongoDB)
 Frameworks & Libraries
 Machine Learning: PyTorch, TensorFlow, Keras, Scikit-learn, Statsmodels, FastAI, LangChain
