@@ -30,12 +30,9 @@ GitHub: Sathyanarayanan-ops
 
 [![My Skills](https://skillicons.dev/icons?i=js,py,html,css,aws,bootstrap,django,docker,fastapi,git,github,ai,java,jenkins,mongodb,mysql,nginx,nodejs,postgres,postman,pytorch,react,redis,ts)](https://skillicons.dev)
 
-Python, Java, JavaScript, TypeScript, SQL, NoSQL (MongoDB)
-Frameworks & Libraries
+
 Machine Learning: PyTorch, TensorFlow, Keras, Scikit-learn, Statsmodels, FastAI, LangChain
-Web Development: FastAPI, ReactJS, Django, Flask
+
 Data Processing: NumPy, Pandas, PySpark, Apache Kafka, Airflow
-Tools & Platforms
-Cloud & Automation: AWS, Docker, Kubernetes, Jenkins, Git, CI/CD, Agile
-Databases: MySQL, PostgreSQL, MongoDB, Redis
+
 Others: Tableau, Alteryx, Linux-based systems, Apache, GAP Analysis
