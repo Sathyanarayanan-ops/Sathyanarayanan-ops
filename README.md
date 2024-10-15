@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+👋 Hi, I'm Sathya!
+🚀 Passionate Software Developer | Generative AI Enthusiast | Cloud Engineer
+
+📫 Get in Touch
+
+Email: sathya05@vt.edu
+LinkedIn: Sathya's LinkedIn
+GitHub: Sathyanarayanan-ops
+🛠️ Tech Stack
+
+Programming Languages
+Python, Java, JavaScript, TypeScript, SQL, NoSQL (MongoDB)
+Frameworks & Libraries
+Machine Learning: PyTorch, TensorFlow, Keras, Scikit-learn, Statsmodels, FastAI, LangChain
+Web Development: FastAPI, ReactJS, Django, Flask
+Data Processing: NumPy, Pandas, PySpark, Apache Kafka, Airflow
+Tools & Platforms
+Cloud & Automation: AWS, Docker, Kubernetes, Jenkins, Git, CI/CD, Agile
+Databases: MySQL, PostgreSQL, MongoDB, Redis
+Others: Tableau, Alteryx, Linux-based systems, Apache, GAP Analysis
