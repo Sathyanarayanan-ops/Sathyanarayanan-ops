@@ -27,7 +27,6 @@ GitHub: Sathyanarayanan-ops
 
 
 🛠️ Tech Stack
-![image](https://github.com/user-attachments/assets/a3d494a4-f028-448f-879a-75ff748ef345)
 
 Python, Java, JavaScript, TypeScript, SQL, NoSQL (MongoDB)
 Frameworks & Libraries
