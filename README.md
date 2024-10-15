@@ -24,9 +24,11 @@ Here are some ideas to get you started:
 Email: sathya05@vt.edu
 LinkedIn: Sathya's LinkedIn
 GitHub: Sathyanarayanan-ops
-🛠️ Tech Stack
 
-Programming Languages
+
+🛠️ Tech Stack
+![image](https://github.com/user-attachments/assets/a3d494a4-f028-448f-879a-75ff748ef345)
+
 Python, Java, JavaScript, TypeScript, SQL, NoSQL (MongoDB)
 Frameworks & Libraries
 Machine Learning: PyTorch, TensorFlow, Keras, Scikit-learn, Statsmodels, FastAI, LangChain
