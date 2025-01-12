@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 Email: sathya05@vt.edu
 LinkedIn: [Sathya's Linkedin](https://www.linkedin.com/in/sathyars751/)
 GitHub: Sathyanarayanan-ops
+Website: [Personal Website](https://github.com/Sathyanarayanan-ops/Sathya_Portfolio)
 
 
 🛠️ Tech Stack
