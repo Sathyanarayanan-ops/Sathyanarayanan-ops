@@ -29,7 +29,7 @@ Website: [Personal Website](https://sathyasportfolio.netlify.app)
 
 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,py,html,css,aws,bootstrap,django,docker,fastapi,git,github,ai,java,jenkins,mongodb,mysql,nginx,nodejs,postgres,postman,pytorch,react,redis,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,html,css,aws,django,docker,fastapi,git,github,ai,java,jenkins,mongodb,mysql,nginx,nodejs,postgres,postman,pytorch,react,redis,ts)](https://skillicons.dev)
 
 
 Machine Learning: PyTorch, TensorFlow, Keras, Scikit-learn, Statsmodels, FastAI, LangChain
