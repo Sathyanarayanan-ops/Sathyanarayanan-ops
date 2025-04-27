@@ -32,8 +32,8 @@ Website: [Personal Website](https://sathyasportfolio.netlify.app)
 [![My Skills](https://skillicons.dev/icons?i=js,py,html,css,aws,django,docker,fastapi,git,github,ai,java,jenkins,mongodb,mysql,nginx,nodejs,postgres,postman,pytorch,react,redis,ts)](https://skillicons.dev)
 
 
-Machine Learning: PyTorch, TensorFlow, Keras, Scikit-learn, Statsmodels, FastAI, LangChain
+Machine Learning: PyTorch, TensorFlow,LangChain
 
-Data Processing: NumPy, Pandas, PySpark, Apache Kafka, Airflow
+Data Processing: NumPy, Pandas, PySpark, Apache Kafka, Flink
 
-Others: Tableau, Alteryx, Linux-based systems, Apache, GAP Analysis
+
