@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-👋 Hi, I'm Sathya!
-🚀 Passionate Software Developer | Generative AI Enthusiast | Cloud Engineer
+ Hi, I'm Sathya!
+ Im a Passionate Software Developer, and I've worked on Several Ai projects.
+ I graduated from Virginia Tech , and currently work at SAP Labs, where we are pioneering on using Ai to provide enterprise solutions.
 
 📫 Get in Touch
 
